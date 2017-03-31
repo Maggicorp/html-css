@@ -1,0 +1,53 @@
+* {
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
+main {
+  background-color: pink;
+}
+ul li{
+  text-align: left;
+  margin-left: 40%;
+}
+div {
+  background-color: gray;
+}
+article {
+  background-color: lightgray;
+}
+footer p {
+  background-color: teal;
+  text-align: center;
+}
+p {
+  text-align: left;
+  background-color: white;
+}
+header {
+  background-color: teal;
+}
+form {
+  background-color: teal;
+  text-align: left;
+
+}
+.image {
+  height: auto;
+  width: 90%;
+  text-align: center;
+  margin: auto 0;
+}
+.float {
+  float: left;
+  background: gray;
+  width: 30%;
+}
+.clearfix:after {
+   content: " "; /* Older browser do not support empty content */
+   visibility: hidden;
+   display: block;
+   height: 0;
+   clear: both;
+}

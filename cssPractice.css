@@ -1,0 +1,22 @@
+main {
+  font-size: 20px;
+  color: blue;
+}
+div {
+  color: black;
+  font-weight: bold;
+  }
+.fancy-text {
+color: yellow;
+background: black;
+}
+#fancier-text {
+color: white;
+background-color: blue;
+}
+footer {
+  font-family: fantasy;
+}
+#fancy-text {
+  font-family: monospace;
+}
